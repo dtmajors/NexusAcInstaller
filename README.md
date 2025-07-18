@@ -4,7 +4,7 @@
 
 ## ⚔️ What is This?
 
-The **Nexus Asheron's Call Installer** is a one-click installer built to streamline the setup process for playing on the Nexus server. It handles everything from installing the game client to setting up all required frameworks, plugins, and tools—automatically.
+The **Nexus Asheron's Call Installer** is a one-click installer built to streamline the setup process for playing on the Nexus Ac server. It handles everything from installing the game client to setting up all required frameworks, plugins, and tools—automatically.
 
 Whether you're a returning player or brand new, this installer ensures you're ready to log in and play with minimal effort.
 
@@ -68,7 +68,7 @@ Need help or run into issues? Join the official Nexus Discord server:
 
 ## ⚠️ Disclaimer
 
-This installer is designed specifically for the Nexus Asheron's Call server and may not be compatible with other servers or vanilla setups.
+This installer is designed to make your life easier. I take NO responsibility for anything that goes wrong (although I don't see why it would)
 
 ---
 
